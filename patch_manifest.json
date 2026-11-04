@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "patches": [
+    {
+      "file": "patch_1.0.1.zip",
+      "url": "https://patch.your-domain.com/patch_1.0.1.zip",
+      "sha256": "24f35c4218fb1d050e92185f159d3e63fb6ec8e96be1d7646800935df5dc7e03"
+    }
+  ]
+}
