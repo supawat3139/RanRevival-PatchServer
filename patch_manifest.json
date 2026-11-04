@@ -1,11 +1,5 @@
 {
   "version": "1.0.1",
-  "patches": [
-    {
-      "file": "patch_1.0.1.zip",
-      "url": "https://supawat3139.github.io/RanRevival-PatchServer/releases/patch_1.0.1.zip",
-      "sha256": "24F35C4218FB1D050E92185F159D3E63FB6EC8E96BE1D7646800935DF5DC7E03"
-    }
-  ]
+  "url": "releases/patch_1.0.1.zip",
+  "sha256": "24F35C4218FB1D050E92185F159D3E63FB6EC8E96BE1D7646800935DF5DC7E03"
 }
-
